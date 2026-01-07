@@ -1,4 +1,11 @@
 # Service Endpoints Reference – Quick Guide for Co-Founders
+## System Architecture
+
+<iframe style="border: 1px solid rgba(0, 0, 0, 0.1);" width="800" height="450" src="https://embed.figma.com/board/ZyNil1Sd7Qsmf1bWVvQvT7/Ticket-Automation-Architecture?node-id=0-1&embed-host=share" allowfullscreen></iframe>
+
+*Replace `YOUR_FIGMA_OR_DIAGRAM_URL_HERE` with your actual diagram URL (Figma, Lucidchart, draw.io, etc.)*
+
+---
 
 ## 1. Classifier Service
 **Role:** Analyzes tickets, decides if they should be automated
