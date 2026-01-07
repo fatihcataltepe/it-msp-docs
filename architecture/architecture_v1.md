@@ -3,6 +3,8 @@
 
 ![System Architecture](res/system-architecture.png)
 
+[View on Figma](https://www.figma.com/board/ZyNil1Sd7Qsmf1bWVvQvT7/Ticket-Automation-Architecture?node-id=0-1&t=yKKiEsvj95aOteBr-1)
+
 ---
 
 ## 1. Classifier Service
