@@ -42,6 +42,8 @@ Engineers spend less time on repetitive remediation and more on investigation an
 Support capacity is decoupled from headcount by converting one-off resolutions into continuously maintained, policy-aware automations that evolve as tools, policies, and environments change.
 MSPs serve more clients with lower marginal cost, improving margins and service consistency.
 
+> Existing tools automate workflows; we automate resolutions.
+
 ## Go-to-Market
 
 Acquire MSPs serving mid-tier clients as an operating laboratory. Deploy the platform to capture real operational data, validate workflows, and refine integrations. Once proven, productize and sell the platform to external MSPs as a standalone SaaS, with continued M&A as an optional growth lever.
@@ -50,3 +52,5 @@ Acquire MSPs serving mid-tier clients as an operating laboratory. Deploy the pla
 
 The platform remains effective as problem domains shift, because automation is derived from real resolutions rather than predefined scripts.
 Engineers investigate a class of problems once; the system operationalizes and maintains it over time.
+
+
